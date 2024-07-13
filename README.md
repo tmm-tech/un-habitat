@@ -1,3 +1,19 @@
+# United Nations Habitat 📝  
+Website that gies small information on  UN  
+  
+## Front Page 🚀  
+First page after login
+![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home.PNG)
+![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home1.PNG)
+
+## Login page 🔥  
+![Login Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/login.PNG)
+![Signup Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/registers.PNG)
+      
+## Region & Country ✨  
+List countries under UN
+ ![Region & Country Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/region.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,20 +44,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-# United Nations Habitat 📝  
-Website that gies small information on  UN  
-  
-## Front Page 🚀  
-First page after login
-![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home.PNG)
-![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home1.PNG)
-
-## Login page 🔥  
-![Login Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/login.PNG)
-![Signup Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/registers.PNG)
-      
-## Region & Country ✨  
-List countries under UN
- ![Region & Country Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/region.PNG)
