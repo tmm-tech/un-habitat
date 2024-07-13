@@ -1,8 +1,8 @@
 # United Nations Habitat 📝  
-Website that gies small information on  UN  
+A website that gives little information on the UN  
   
 ## Front Page 🚀  
-First page after login
+The first page after login
 ![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home.PNG)
 ![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home1.PNG)
 
