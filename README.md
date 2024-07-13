@@ -34,11 +34,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Website that gies small information on  UN  
   
 ## Front Page 🚀  
-First page after login in
+First page after login
+![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home.PNG)
+![Front Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/home1.PNG)
 
 ## Login page 🔥  
-Login design
+![Login Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/login.PNG)
+![Signup Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/register.PNG)
       
 ## Region & Country ✨  
 List countries under UN
- 
+ ![Region & Country Page](https://github.com/tmm-tech/un-habitat/blob/main/Images/region.PNG)
