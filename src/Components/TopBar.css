@@ -1,0 +1,91 @@
+/* Top Bar styles */
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #5b92e5;
+  color: #fff;
+  font-weight: 600;
+  padding: 10px;
+  position: relative; /* Keep this for the border */
+}
+
+.logo {
+  width: 100px;
+  height: 70px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 20px;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #f39c12;
+  transform: scale(1.1);
+  border-bottom: 2px solid #f39c12;
+}
+
+.account-dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.account-link {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  transition: color 0.2s ease;
+  
+}
+
+.account-link i {
+  margin-left: 5px;
+}
+
+.account-link:hover {
+  color: #f39c12;
+  
+  
+}
+
+.dropdown-content {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #5b92e5;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  width: 150px;
+  padding: 8px 0;
+  z-index: 1;
+  opacity: 0;
+  transform-origin: top center;
+  transform: scaleY(0);
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.dropdown-content a{
+  color: #fff;
+  text-decoration: none;
+  padding: 20px;
+}
+.dropdown-content a:hover{
+  color: #f39c12;
+}
+.account-dropdown:hover .dropdown-content {
+  opacity: 1;
+  transform: scaleY(1);
+
+}
+ .active{
+  color: #f39c12;
+ }
